@@ -1,2 +1,2 @@
 # chatbot
-A  chatbot app for website using React js and Node
+A  chatbot app for Weather using React js and Node
